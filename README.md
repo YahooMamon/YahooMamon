@@ -1,15 +1,12 @@
 <h1 align="center">Hi, I'm Jan Mamoń</h1>
 <h3 align="center">Polish high school IT student with a strong interest in software development. Focused on web technologies, mobile application development, and exploring artificial intelligence and machine learning. Actively building practical skills through personal projects and continuous learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yahoomamon&label=Profile%20views&color=0e75b6&style=flat" alt="yahoomamon" /> </p>
-
 - 🌱 I’m currently learning **React,QT,Pytorch and scikit-learn**
 
 - 📫 How to reach me **janmamon3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/yahoo2857" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yahoo2857" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
