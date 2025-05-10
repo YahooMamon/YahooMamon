@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning **React,QT,Pytorch and scikit-learn**
 
 - 📫 How to reach me **janmamon3@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+  
 <p align="left">
 </p>
 
