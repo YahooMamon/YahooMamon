@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jan Mamoń</h1>
-<h3 align="justify">Polish high school IT student with a strong interest in software development. Focused on web technologies, mobile application development, and exploring artificial intelligence and machine learning. Actively building practical skills through personal projects and continuous learning.</h3>
+<h3 align="justify">High school IT student passionate about Artificial Intelligence, Machine Learning, and software development. Focused on building practical AI-driven applications, exploring modern ML techniques, and solving complex technical challenges. Experienced in web technologies and mobile development, with a strong commitment to continuous learning and innovation.</h3>
 
-- 🌱 I’m currently learning **React,QT,Pytorch and scikit-learn**
+- 🌱 I’m currently learning **Pytorch and scikit-learn**
 
 - 📫 How to reach me **janmamon3@gmail.com**
   
